@@ -1,0 +1,18 @@
+{
+  "name": "12-employee_tracker",
+  "version": "1.0.0",
+  "description": "Employee tracker CLI app using MySQL database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "W Kyle Resurreccion",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1",
+    "util": "^0.12.2"
+  }
+}
