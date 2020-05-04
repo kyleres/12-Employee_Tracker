@@ -25,6 +25,8 @@ For this project, we were tasked with creating an employee tracking CLI applicat
 ## Usage
 To use this app, follow the installation instructions and answer the all prompts appropriately. User input will be used to automatically update employee/role/department information in the database.
 
+![Demo](./assets/employee-tracker-demo.gif)
+
 ## Contributing
 Feel free to fork the repo and create your own changes and contact the user for any suggestions!
 
